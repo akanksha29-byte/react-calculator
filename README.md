@@ -1,2 +1,2 @@
-# react-calculator
+# elocity-react-calculator
 Created with CodeSandbox
